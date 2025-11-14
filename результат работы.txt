@@ -1,0 +1,249 @@
+вывод нечетного:
+
+=== Lab 3: Razdel monet s pokojnikom ===
+Vvedite kolichestvo monet: 101
+Nachalnoe kolichestvo monet: 101
+Nachalo deleja...
+
+Tom vzyal monetu. U Tom: 1, u kompaniona: 0, ostalos: 100
+Bob vzyal monetu. U Bob: 1, u kompaniona: 1, ostalos: 99
+Bob vzyal monetu. U Bob: 2, u kompaniona: 1, ostalos: 98
+Tom vzyal monetu. U Tom: 2, u kompaniona: 2, ostalos: 97
+Tom vzyal monetu. U Tom: 3, u kompaniona: 2, ostalos: 96
+Bob vzyal monetu. U Bob: 3, u kompaniona: 3, ostalos: 95
+Tom vzyal monetu. U Tom: 4, u kompaniona: 3, ostalos: 94
+Bob vzyal monetu. U Bob: 4, u kompaniona: 4, ostalos: 93
+Tom vzyal monetu. U Tom: 5, u kompaniona: 4, ostalos: 92
+Bob vzyal monetu. U Bob: 5, u kompaniona: 5, ostalos: 91
+Bob vzyal monetu. U Bob: 6, u kompaniona: 5, ostalos: 90
+Tom vzyal monetu. U Tom: 6, u kompaniona: 6, ostalos: 89
+Tom vzyal monetu. U Tom: 7, u kompaniona: 6, ostalos: 88
+Bob vzyal monetu. U Bob: 7, u kompaniona: 7, ostalos: 87
+Bob vzyal monetu. U Bob: 8, u kompaniona: 7, ostalos: 86
+Tom vzyal monetu. U Tom: 8, u kompaniona: 8, ostalos: 85
+Tom vzyal monetu. U Tom: 9, u kompaniona: 8, ostalos: 84
+Bob vzyal monetu. U Bob: 9, u kompaniona: 9, ostalos: 83
+Bob vzyal monetu. U Bob: 10, u kompaniona: 9, ostalos: 82
+Tom vzyal monetu. U Tom: 10, u kompaniona: 10, ostalos: 81
+Tom vzyal monetu. U Tom: 11, u kompaniona: 10, ostalos: 80
+Bob vzyal monetu. U Bob: 11, u kompaniona: 11, ostalos: 79
+Bob vzyal monetu. U Bob: 12, u kompaniona: 11, ostalos: 78
+Tom vzyal monetu. U Tom: 12, u kompaniona: 12, ostalos: 77
+Tom vzyal monetu. U Tom: 13, u kompaniona: 12, ostalos: 76
+Bob vzyal monetu. U Bob: 13, u kompaniona: 13, ostalos: 75
+Bob vzyal monetu. U Bob: 14, u kompaniona: 13, ostalos: 74
+Tom vzyal monetu. U Tom: 14, u kompaniona: 14, ostalos: 73
+Bob vzyal monetu. U Bob: 15, u kompaniona: 14, ostalos: 72
+Tom vzyal monetu. U Tom: 15, u kompaniona: 15, ostalos: 71
+Tom vzyal monetu. U Tom: 16, u kompaniona: 15, ostalos: 70
+Bob vzyal monetu. U Bob: 16, u kompaniona: 16, ostalos: 69
+Bob vzyal monetu. U Bob: 17, u kompaniona: 16, ostalos: 68
+Tom vzyal monetu. U Tom: 17, u kompaniona: 17, ostalos: 67
+Tom vzyal monetu. U Tom: 18, u kompaniona: 17, ostalos: 66
+Bob vzyal monetu. U Bob: 18, u kompaniona: 18, ostalos: 65
+Bob vzyal monetu. U Bob: 19, u kompaniona: 18, ostalos: 64
+Tom vzyal monetu. U Tom: 19, u kompaniona: 19, ostalos: 63
+Tom vzyal monetu. U Tom: 20, u kompaniona: 19, ostalos: 62
+Bob vzyal monetu. U Bob: 20, u kompaniona: 20, ostalos: 61
+Bob vzyal monetu. U Bob: 21, u kompaniona: 20, ostalos: 60
+Tom vzyal monetu. U Tom: 21, u kompaniona: 21, ostalos: 59
+Bob vzyal monetu. U Bob: 22, u kompaniona: 21, ostalos: 58
+Tom vzyal monetu. U Tom: 22, u kompaniona: 22, ostalos: 57
+Bob vzyal monetu. U Bob: 23, u kompaniona: 22, ostalos: 56
+Tom vzyal monetu. U Tom: 23, u kompaniona: 23, ostalos: 55
+Tom vzyal monetu. U Tom: 24, u kompaniona: 23, ostalos: 54
+Bob vzyal monetu. U Bob: 24, u kompaniona: 24, ostalos: 53
+Bob vzyal monetu. U Bob: 25, u kompaniona: 24, ostalos: 52
+Tom vzyal monetu. U Tom: 25, u kompaniona: 25, ostalos: 51
+Tom vzyal monetu. U Tom: 26, u kompaniona: 25, ostalos: 50
+Bob vzyal monetu. U Bob: 26, u kompaniona: 26, ostalos: 49
+Bob vzyal monetu. U Bob: 27, u kompaniona: 26, ostalos: 48
+Tom vzyal monetu. U Tom: 27, u kompaniona: 27, ostalos: 47
+Bob vzyal monetu. U Bob: 28, u kompaniona: 27, ostalos: 46
+Tom vzyal monetu. U Tom: 28, u kompaniona: 28, ostalos: 45
+Tom vzyal monetu. U Tom: 29, u kompaniona: 28, ostalos: 44
+Bob vzyal monetu. U Bob: 29, u kompaniona: 29, ostalos: 43
+Bob vzyal monetu. U Bob: 30, u kompaniona: 29, ostalos: 42
+Tom vzyal monetu. U Tom: 30, u kompaniona: 30, ostalos: 41
+Tom vzyal monetu. U Tom: 31, u kompaniona: 30, ostalos: 40
+Bob vzyal monetu. U Bob: 31, u kompaniona: 31, ostalos: 39
+Tom vzyal monetu. U Tom: 32, u kompaniona: 31, ostalos: 38
+Bob vzyal monetu. U Bob: 32, u kompaniona: 32, ostalos: 37
+Bob vzyal monetu. U Bob: 33, u kompaniona: 32, ostalos: 36
+Tom vzyal monetu. U Tom: 33, u kompaniona: 33, ostalos: 35
+Tom vzyal monetu. U Tom: 34, u kompaniona: 33, ostalos: 34
+Bob vzyal monetu. U Bob: 34, u kompaniona: 34, ostalos: 33
+Bob vzyal monetu. U Bob: 35, u kompaniona: 34, ostalos: 32
+Tom vzyal monetu. U Tom: 35, u kompaniona: 35, ostalos: 31
+Bob vzyal monetu. U Bob: 36, u kompaniona: 35, ostalos: 30
+Tom vzyal monetu. U Tom: 36, u kompaniona: 36, ostalos: 29
+Tom vzyal monetu. U Tom: 37, u kompaniona: 36, ostalos: 28
+Bob vzyal monetu. U Bob: 37, u kompaniona: 37, ostalos: 27
+Tom vzyal monetu. U Tom: 38, u kompaniona: 37, ostalos: 26
+Bob vzyal monetu. U Bob: 38, u kompaniona: 38, ostalos: 25
+Bob vzyal monetu. U Bob: 39, u kompaniona: 38, ostalos: 24
+Tom vzyal monetu. U Tom: 39, u kompaniona: 39, ostalos: 23
+Bob vzyal monetu. U Bob: 40, u kompaniona: 39, ostalos: 22
+Tom vzyal monetu. U Tom: 40, u kompaniona: 40, ostalos: 21
+Tom vzyal monetu. U Tom: 41, u kompaniona: 40, ostalos: 20
+Bob vzyal monetu. U Bob: 41, u kompaniona: 41, ostalos: 19
+Tom vzyal monetu. U Tom: 42, u kompaniona: 41, ostalos: 18
+Bob vzyal monetu. U Bob: 42, u kompaniona: 42, ostalos: 17
+Bob vzyal monetu. U Bob: 43, u kompaniona: 42, ostalos: 16
+Tom vzyal monetu. U Tom: 43, u kompaniona: 43, ostalos: 15
+Tom vzyal monetu. U Tom: 44, u kompaniona: 43, ostalos: 14
+Bob vzyal monetu. U Bob: 44, u kompaniona: 44, ostalos: 13
+Bob vzyal monetu. U Bob: 45, u kompaniona: 44, ostalos: 12
+Tom vzyal monetu. U Tom: 45, u kompaniona: 45, ostalos: 11
+Bob vzyal monetu. U Bob: 46, u kompaniona: 45, ostalos: 10
+Tom vzyal monetu. U Tom: 46, u kompaniona: 46, ostalos: 9
+Tom vzyal monetu. U Tom: 47, u kompaniona: 46, ostalos: 8
+Bob vzyal monetu. U Bob: 47, u kompaniona: 47, ostalos: 7
+Tom vzyal monetu. U Tom: 48, u kompaniona: 47, ostalos: 6
+Bob vzyal monetu. U Bob: 48, u kompaniona: 48, ostalos: 5
+Bob vzyal monetu. U Bob: 49, u kompaniona: 48, ostalos: 4
+Tom vzyal monetu. U Tom: 49, u kompaniona: 49, ostalos: 3
+Bob vzyal monetu. U Bob: 50, u kompaniona: 49, ostalos: 2
+Tom vzyal monetu. U Tom: 50, u kompaniona: 50, ostalos: 1
+Poslednyaya moneta dostalas pokojniku!
+
+=== Itogi deleja ===
+U Boba monet: 50
+U Toma monet: 50
+U pokojnika monet: 1
+Ostalos monet: 0
+Vsego raspredeleno: 101
+Raznica mezhdu vorami: 0
+Raspredelenie vypolneno korrektno!
+
+=== Analiz raspredeleniya ===
+Pri nechetnom kolichestve (101):
+- Vory poluchili porovnu: 50 monet
+- Pokojnik poluchil: 1 monetu
+- Itogo: 50 + 50 + 1 = 101
+
+
+Результат четного:
+
+=== Lab 3: Razdel monet s pokojnikom ===
+Vvedite kolichestvo monet: 100
+Nachalnoe kolichestvo monet: 100
+Nachalo deleja...
+
+Tom vzyal monetu. U Tom: 1, u kompaniona: 0, ostalos: 99
+Bob vzyal monetu. U Bob: 1, u kompaniona: 1, ostalos: 98
+Bob vzyal monetu. U Bob: 2, u kompaniona: 1, ostalos: 97
+Tom vzyal monetu. U Tom: 2, u kompaniona: 2, ostalos: 96
+Tom vzyal monetu. U Tom: 3, u kompaniona: 2, ostalos: 95
+Bob vzyal monetu. U Bob: 3, u kompaniona: 3, ostalos: 94
+Tom vzyal monetu. U Tom: 4, u kompaniona: 3, ostalos: 93
+Bob vzyal monetu. U Bob: 4, u kompaniona: 4, ostalos: 92
+Bob vzyal monetu. U Bob: 5, u kompaniona: 4, ostalos: 91
+Tom vzyal monetu. U Tom: 5, u kompaniona: 5, ostalos: 90
+Tom vzyal monetu. U Tom: 6, u kompaniona: 5, ostalos: 89
+Bob vzyal monetu. U Bob: 6, u kompaniona: 6, ostalos: 88
+Tom vzyal monetu. U Tom: 7, u kompaniona: 6, ostalos: 87
+Bob vzyal monetu. U Bob: 7, u kompaniona: 7, ostalos: 86
+Bob vzyal monetu. U Bob: 8, u kompaniona: 7, ostalos: 85
+Tom vzyal monetu. U Tom: 8, u kompaniona: 8, ostalos: 84
+Tom vzyal monetu. U Tom: 9, u kompaniona: 8, ostalos: 83
+Bob vzyal monetu. U Bob: 9, u kompaniona: 9, ostalos: 82
+Bob vzyal monetu. U Bob: 10, u kompaniona: 9, ostalos: 81
+Tom vzyal monetu. U Tom: 10, u kompaniona: 10, ostalos: 80
+Bob vzyal monetu. U Bob: 11, u kompaniona: 10, ostalos: 79
+Tom vzyal monetu. U Tom: 11, u kompaniona: 11, ostalos: 78
+Bob vzyal monetu. U Bob: 12, u kompaniona: 11, ostalos: 77
+Tom vzyal monetu. U Tom: 12, u kompaniona: 12, ostalos: 76
+Tom vzyal monetu. U Tom: 13, u kompaniona: 12, ostalos: 75
+Bob vzyal monetu. U Bob: 13, u kompaniona: 13, ostalos: 74
+Bob vzyal monetu. U Bob: 14, u kompaniona: 13, ostalos: 73
+Tom vzyal monetu. U Tom: 14, u kompaniona: 14, ostalos: 72
+Tom vzyal monetu. U Tom: 15, u kompaniona: 14, ostalos: 71
+Bob vzyal monetu. U Bob: 15, u kompaniona: 15, ostalos: 70
+Bob vzyal monetu. U Bob: 16, u kompaniona: 15, ostalos: 69
+Tom vzyal monetu. U Tom: 16, u kompaniona: 16, ostalos: 68
+Bob vzyal monetu. U Bob: 17, u kompaniona: 16, ostalos: 67
+Tom vzyal monetu. U Tom: 17, u kompaniona: 17, ostalos: 66
+Bob vzyal monetu. U Bob: 18, u kompaniona: 17, ostalos: 65
+Tom vzyal monetu. U Tom: 18, u kompaniona: 18, ostalos: 64
+Bob vzyal monetu. U Bob: 19, u kompaniona: 18, ostalos: 63
+Tom vzyal monetu. U Tom: 19, u kompaniona: 19, ostalos: 62
+Tom vzyal monetu. U Tom: 20, u kompaniona: 19, ostalos: 61
+Bob vzyal monetu. U Bob: 20, u kompaniona: 20, ostalos: 60
+Bob vzyal monetu. U Bob: 21, u kompaniona: 20, ostalos: 59
+Tom vzyal monetu. U Tom: 21, u kompaniona: 21, ostalos: 58
+Tom vzyal monetu. U Tom: 22, u kompaniona: 21, ostalos: 57
+Bob vzyal monetu. U Bob: 22, u kompaniona: 22, ostalos: 56
+Tom vzyal monetu. U Tom: 23, u kompaniona: 22, ostalos: 55
+Bob vzyal monetu. U Bob: 23, u kompaniona: 23, ostalos: 54
+Tom vzyal monetu. U Tom: 24, u kompaniona: 23, ostalos: 53
+Bob vzyal monetu. U Bob: 24, u kompaniona: 24, ostalos: 52
+Bob vzyal monetu. U Bob: 25, u kompaniona: 24, ostalos: 51
+Tom vzyal monetu. U Tom: 25, u kompaniona: 25, ostalos: 50
+Tom vzyal monetu. U Tom: 26, u kompaniona: 25, ostalos: 49
+Bob vzyal monetu. U Bob: 26, u kompaniona: 26, ostalos: 48
+Tom vzyal monetu. U Tom: 27, u kompaniona: 26, ostalos: 47
+Bob vzyal monetu. U Bob: 27, u kompaniona: 27, ostalos: 46
+Bob vzyal monetu. U Bob: 28, u kompaniona: 27, ostalos: 45
+Tom vzyal monetu. U Tom: 28, u kompaniona: 28, ostalos: 44
+Bob vzyal monetu. U Bob: 29, u kompaniona: 28, ostalos: 43
+Tom vzyal monetu. U Tom: 29, u kompaniona: 29, ostalos: 42
+Bob vzyal monetu. U Bob: 30, u kompaniona: 29, ostalos: 41
+Tom vzyal monetu. U Tom: 30, u kompaniona: 30, ostalos: 40
+Bob vzyal monetu. U Bob: 31, u kompaniona: 30, ostalos: 39
+Tom vzyal monetu. U Tom: 31, u kompaniona: 31, ostalos: 38
+Bob vzyal monetu. U Bob: 32, u kompaniona: 31, ostalos: 37
+Tom vzyal monetu. U Tom: 32, u kompaniona: 32, ostalos: 36
+Tom vzyal monetu. U Tom: 33, u kompaniona: 32, ostalos: 35
+Bob vzyal monetu. U Bob: 33, u kompaniona: 33, ostalos: 34
+Tom vzyal monetu. U Tom: 34, u kompaniona: 33, ostalos: 33
+Bob vzyal monetu. U Bob: 34, u kompaniona: 34, ostalos: 32
+Bob vzyal monetu. U Bob: 35, u kompaniona: 34, ostalos: 31
+Tom vzyal monetu. U Tom: 35, u kompaniona: 35, ostalos: 30
+Bob vzyal monetu. U Bob: 36, u kompaniona: 35, ostalos: 29
+Tom vzyal monetu. U Tom: 36, u kompaniona: 36, ostalos: 28
+Bob vzyal monetu. U Bob: 37, u kompaniona: 36, ostalos: 27
+Tom vzyal monetu. U Tom: 37, u kompaniona: 37, ostalos: 26
+Bob vzyal monetu. U Bob: 38, u kompaniona: 37, ostalos: 25
+Tom vzyal monetu. U Tom: 38, u kompaniona: 38, ostalos: 24
+Tom vzyal monetu. U Tom: 39, u kompaniona: 38, ostalos: 23
+Bob vzyal monetu. U Bob: 39, u kompaniona: 39, ostalos: 22
+Tom vzyal monetu. U Tom: 40, u kompaniona: 39, ostalos: 21
+Bob vzyal monetu. U Bob: 40, u kompaniona: 40, ostalos: 20
+Bob vzyal monetu. U Bob: 41, u kompaniona: 40, ostalos: 19
+Tom vzyal monetu. U Tom: 41, u kompaniona: 41, ostalos: 18
+Bob vzyal monetu. U Bob: 42, u kompaniona: 41, ostalos: 17
+Tom vzyal monetu. U Tom: 42, u kompaniona: 42, ostalos: 16
+Tom vzyal monetu. U Tom: 43, u kompaniona: 42, ostalos: 15
+Bob vzyal monetu. U Bob: 43, u kompaniona: 43, ostalos: 14
+Tom vzyal monetu. U Tom: 44, u kompaniona: 43, ostalos: 13
+Bob vzyal monetu. U Bob: 44, u kompaniona: 44, ostalos: 12
+Bob vzyal monetu. U Bob: 45, u kompaniona: 44, ostalos: 11
+Tom vzyal monetu. U Tom: 45, u kompaniona: 45, ostalos: 10
+Tom vzyal monetu. U Tom: 46, u kompaniona: 45, ostalos: 9
+Bob vzyal monetu. U Bob: 46, u kompaniona: 46, ostalos: 8
+Bob vzyal monetu. U Bob: 47, u kompaniona: 46, ostalos: 7
+Tom vzyal monetu. U Tom: 47, u kompaniona: 47, ostalos: 6
+Bob vzyal monetu. U Bob: 48, u kompaniona: 47, ostalos: 5
+Tom vzyal monetu. U Tom: 48, u kompaniona: 48, ostalos: 4
+Bob vzyal monetu. U Bob: 49, u kompaniona: 48, ostalos: 3
+Tom vzyal monetu. U Tom: 49, u kompaniona: 49, ostalos: 2
+Bob vzyal monetu. U Bob: 50, u kompaniona: 49, ostalos: 1
+Poslednyaya moneta dostalas pokojniku!
+
+=== Itogi deleja ===
+U Boba monet: 50
+U Toma monet: 49
+U pokojnika monet: 1
+Ostalos monet: 0
+Vsego raspredeleno: 100
+Raznica mezhdu vorami: 1
+Raspredelenie vypolneno korrektno!
+
+=== Analiz raspredeleniya ===
+Pri nechetnom kolichestve (100):
+- Vory poluchili porovnu: 50 monet
+- Pokojnik poluchil: 1 monetu
+- Itogo: 50 + 49 + 1 = 100
+
+
